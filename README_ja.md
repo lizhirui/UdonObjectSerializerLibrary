@@ -1,4 +1,4 @@
-# UdonObjectSerializerLibrary
+# UdonObjectSerializerLibrary（翻訳者：fog8360）
 
 ## 概要
 
